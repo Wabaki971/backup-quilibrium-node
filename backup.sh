@@ -7,7 +7,7 @@ TIMESTAMP=$(date +"%Y%m%d%H%M%S")
 ARCHIVE_NAME="nod5_quil_$TIMESTAMP.zip"
 LOCAL_ARCHIVE_PATH="$BACKUP_DIR/$ARCHIVE_NAME"
 LOCAL_COPY_DIR="$BACKUP_DIR/dossier_temp_$TIMESTAMP"
-GDRIVE_FOLDER_ID="15BCmBa-cq_hHRQGiQ1khO5_qQO97gudK"
+GDRIVE_FOLDER_ID=""
 
 # Créer une copie locale du dossier
 echo "Copie locale du dossier..."
